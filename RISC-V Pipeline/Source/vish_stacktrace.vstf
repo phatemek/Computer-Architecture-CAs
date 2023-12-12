@@ -1,0 +1,220 @@
+# Current time Fri Jun 09 13:53:52 2023
+# ModelSim - Intel FPGA Edition Stack Trace
+# Program = vish
+# Id = "2020.1"
+# Version = "2020.02"
+# Date = "Feb 28 2020"
+# Platform = win32pe
+
+Exception c0000005 has occurred at address 1023c3dd. Traceback:
+# 0    0x1023c3dd: 'TkWinHandleMenuEvent + 0x12cd'
+# 1    0x100d653b: 'TclServiceIdle + 0x4b'
+# 2    0x6edab54c: 'ArrangeIconicWindows + 0x118c'
+# 3    0x6edabd13: 'EditWndProc + 0x6b3'
+# 4    0x6edae336: 'EditWndProc + 0x2cd6'
+# 5    0x6ed5ebca: 'TranslateAcceleratorA + 0x47a'
+# 6    0x6ed64198: 'PostMessageA + 0x2e88'
+# 7    0x6ed643e4: 'SendMessageW + 0x54'
+# 8    0x6ed9bd0f: 'EnableWindow + 0x33f'
+# 9    0x6ed9e667: 'DestroyWindow + 0x297'
+# 10   0x10248e79: 'TkWmDeadWindow + 0x3e9'
+# 11   0x103105f6: 'Tk_DestroyWindow + 0x396'
+# 12   0x102c5ac1: 'Tk_MainEx + 0x4231'
+# 13   0x102c5773: 'Tk_MainEx + 0x3ee3'
+# 14   0x102c5492: 'Tk_MainEx + 0x3c02'
+# 15   0x100c60b4: 'Tcl_EventuallyFree + 0x74'
+# 16   0x102c5fd7: 'Tk_MainEx + 0x4747'
+StackWalk failed 6
+# End of Stack Trace
+
+# Current time Fri Jun 09 13:53:54 2023
+# ModelSim - Intel FPGA Edition Stack Trace
+# Program = vish
+# Id = "2020.1"
+# Version = "2020.02"
+# Date = "Feb 28 2020"
+# Platform = win32pe
+
+Exception c0000005 has occurred at address 102c5877. Traceback:
+# 0    0x102c5877: 'Tk_MainEx + 0x3fe7'
+# 1    0x102c5773: 'Tk_MainEx + 0x3ee3'
+# 2    0x102c9fdd: 'TkSetWindowMenuBar + 0x303d'
+# 3    0x1028ec2d: 'Tk_HandleEvent + 0x20d'
+# 4    0x10310550: 'Tk_DestroyWindow + 0x2f0'
+# 5    0x102c5765: 'Tk_MainEx + 0x3ed5'
+# 6    0x102c9fdd: 'TkSetWindowMenuBar + 0x303d'
+# 7    0x1028ec2d: 'Tk_HandleEvent + 0x20d'
+# 8    0x10310550: 'Tk_DestroyWindow + 0x2f0'
+# 9    0x102817bb: 'TkGetDisplayOf + 0x321b'
+StackWalk failed 6
+# End of Stack Trace
+
+# Current time Fri Jun 09 13:53:54 2023
+# ModelSim - Intel FPGA Edition Stack Trace
+# Program = vish
+# Id = "2020.1"
+# Version = "2020.02"
+# Date = "Feb 28 2020"
+# Platform = win32pe
+
+Exception c0000005 has occurred at address 102c5877. Traceback:
+# 0    0x102c5877: 'Tk_MainEx + 0x3fe7'
+# 1    0x102c5773: 'Tk_MainEx + 0x3ee3'
+# 2    0x102c9fdd: 'TkSetWindowMenuBar + 0x303d'
+# 3    0x1028ec2d: 'Tk_HandleEvent + 0x20d'
+# 4    0x10310550: 'Tk_DestroyWindow + 0x2f0'
+# 5    0x102c5765: 'Tk_MainEx + 0x3ed5'
+# 6    0x102c9fdd: 'TkSetWindowMenuBar + 0x303d'
+# 7    0x1028ec2d: 'Tk_HandleEvent + 0x20d'
+# 8    0x10310550: 'Tk_DestroyWindow + 0x2f0'
+# 9    0x102817bb: 'TkGetDisplayOf + 0x321b'
+StackWalk failed 6
+# End of Stack Trace
+
+# Current time Fri Jun 09 13:53:54 2023
+# ModelSim - Intel FPGA Edition Stack Trace
+# Program = vish
+# Id = "2020.1"
+# Version = "2020.02"
+# Date = "Feb 28 2020"
+# Platform = win32pe
+
+Exception c0000005 has occurred at address 102c5877. Traceback:
+# 0    0x102c5877: 'Tk_MainEx + 0x3fe7'
+# 1    0x102c5773: 'Tk_MainEx + 0x3ee3'
+# 2    0x102c9fdd: 'TkSetWindowMenuBar + 0x303d'
+# 3    0x1028ec2d: 'Tk_HandleEvent + 0x20d'
+# 4    0x10310550: 'Tk_DestroyWindow + 0x2f0'
+# 5    0x102c5765: 'Tk_MainEx + 0x3ed5'
+# 6    0x102c9fdd: 'TkSetWindowMenuBar + 0x303d'
+# 7    0x1028ec2d: 'Tk_HandleEvent + 0x20d'
+# 8    0x10310550: 'Tk_DestroyWindow + 0x2f0'
+# 9    0x102817bb: 'TkGetDisplayOf + 0x321b'
+StackWalk failed 6
+# End of Stack Trace
+
+# Current time Fri Jun 09 14:11:12 2023
+# ModelSim - Intel FPGA Edition Stack Trace
+# Program = vish
+# Id = "2020.1"
+# Version = "2020.02"
+# Date = "Feb 28 2020"
+# Platform = win32pe
+
+Exception c0000005 has occurred at address 00767830. Traceback:
+# 0    0x00767830: 'WlfContextItem::`vector deleting destructor' + 0x6c590'
+# 1    0x5d5f5e5b: '<unknown (@0x5d5f5e5b)>'
+# 2    0x007665b5: 'WlfContextItem::`vector deleting destructor' + 0x6b315'
+# 3    0x007646be: 'WlfContextItem::`vector deleting destructor' + 0x6941e'
+# 4    0x0067cd1d: '_WinMain@16 + 0x12398d'
+# 5    0x004f72f9: '_EnumDispProc@16 + 0x1779'
+StackWalk failed 998
+# End of Stack Trace
+
+# Current time Fri Jun 09 14:58:18 2023
+# ModelSim - Intel FPGA Edition Stack Trace
+# Program = vish
+# Id = "2020.1"
+# Version = "2020.02"
+# Date = "Feb 28 2020"
+# Platform = win32pe
+
+Exception c0000005 has occurred at address 1023c3dd. Traceback:
+# 0    0x1023c3dd: 'TkWinHandleMenuEvent + 0x12cd'
+# 1    0x100d653b: 'TclServiceIdle + 0x4b'
+# 2    0x6edab54c: 'ArrangeIconicWindows + 0x118c'
+# 3    0x6edabd13: 'EditWndProc + 0x6b3'
+# 4    0x6edae336: 'EditWndProc + 0x2cd6'
+# 5    0x6ed5ebca: 'TranslateAcceleratorA + 0x47a'
+# 6    0x6ed64198: 'PostMessageA + 0x2e88'
+# 7    0x6ed643e4: 'SendMessageW + 0x54'
+# 8    0x6ed9bd0f: 'EnableWindow + 0x33f'
+# 9    0x6ed9e667: 'DestroyWindow + 0x297'
+# 10   0x10248e79: 'TkWmDeadWindow + 0x3e9'
+# 11   0x103105f6: 'Tk_DestroyWindow + 0x396'
+# 12   0x102c5ac1: 'Tk_MainEx + 0x4231'
+# 13   0x102c5773: 'Tk_MainEx + 0x3ee3'
+# 14   0x102c5492: 'Tk_MainEx + 0x3c02'
+# 15   0x100c60b4: 'Tcl_EventuallyFree + 0x74'
+# 16   0x102c5fd7: 'Tk_MainEx + 0x4747'
+StackWalk failed 6
+# End of Stack Trace
+
+# Current time Fri Jun 09 14:58:19 2023
+# ModelSim - Intel FPGA Edition Stack Trace
+# Program = vish
+# Id = "2020.1"
+# Version = "2020.02"
+# Date = "Feb 28 2020"
+# Platform = win32pe
+
+Exception c0000005 has occurred at address 102c5877. Traceback:
+# 0    0x102c5877: 'Tk_MainEx + 0x3fe7'
+# 1    0x102c5773: 'Tk_MainEx + 0x3ee3'
+# 2    0x102c9fdd: 'TkSetWindowMenuBar + 0x303d'
+# 3    0x1028ec2d: 'Tk_HandleEvent + 0x20d'
+# 4    0x10310550: 'Tk_DestroyWindow + 0x2f0'
+# 5    0x102c5765: 'Tk_MainEx + 0x3ed5'
+# 6    0x102c9fdd: 'TkSetWindowMenuBar + 0x303d'
+# 7    0x1028ec2d: 'Tk_HandleEvent + 0x20d'
+# 8    0x10310550: 'Tk_DestroyWindow + 0x2f0'
+# 9    0x1031045d: 'Tk_DestroyWindow + 0x1fd'
+# 10   0x1031045d: 'Tk_DestroyWindow + 0x1fd'
+# 11   0x1031045d: 'Tk_DestroyWindow + 0x1fd'
+# 12   0x1030dca3: 'Tk_PkgInitStubsCheck + 0xc33'
+# 13   0x1028dbec: 'Tk_MainLoop + 0xac'
+StackWalk failed 998
+# End of Stack Trace
+
+# Current time Fri Jun 09 14:58:19 2023
+# ModelSim - Intel FPGA Edition Stack Trace
+# Program = vish
+# Id = "2020.1"
+# Version = "2020.02"
+# Date = "Feb 28 2020"
+# Platform = win32pe
+
+Exception c0000005 has occurred at address 102c5877. Traceback:
+# 0    0x102c5877: 'Tk_MainEx + 0x3fe7'
+# 1    0x102c5773: 'Tk_MainEx + 0x3ee3'
+# 2    0x102c9fdd: 'TkSetWindowMenuBar + 0x303d'
+# 3    0x1028ec2d: 'Tk_HandleEvent + 0x20d'
+# 4    0x10310550: 'Tk_DestroyWindow + 0x2f0'
+# 5    0x102c5765: 'Tk_MainEx + 0x3ed5'
+# 6    0x102c9fdd: 'TkSetWindowMenuBar + 0x303d'
+# 7    0x1028ec2d: 'Tk_HandleEvent + 0x20d'
+# 8    0x10310550: 'Tk_DestroyWindow + 0x2f0'
+# 9    0x1031045d: 'Tk_DestroyWindow + 0x1fd'
+# 10   0x1031045d: 'Tk_DestroyWindow + 0x1fd'
+# 11   0x1031045d: 'Tk_DestroyWindow + 0x1fd'
+# 12   0x1030dca3: 'Tk_PkgInitStubsCheck + 0xc33'
+# 13   0x1028dbec: 'Tk_MainLoop + 0xac'
+StackWalk failed 998
+# End of Stack Trace
+
+# Current time Fri Jun 09 14:58:19 2023
+# ModelSim - Intel FPGA Edition Stack Trace
+# Program = vish
+# Id = "2020.1"
+# Version = "2020.02"
+# Date = "Feb 28 2020"
+# Platform = win32pe
+
+Exception c0000005 has occurred at address 102c5877. Traceback:
+# 0    0x102c5877: 'Tk_MainEx + 0x3fe7'
+# 1    0x102c5773: 'Tk_MainEx + 0x3ee3'
+# 2    0x102c9fdd: 'TkSetWindowMenuBar + 0x303d'
+# 3    0x1028ec2d: 'Tk_HandleEvent + 0x20d'
+# 4    0x10310550: 'Tk_DestroyWindow + 0x2f0'
+# 5    0x102c5765: 'Tk_MainEx + 0x3ed5'
+# 6    0x102c9fdd: 'TkSetWindowMenuBar + 0x303d'
+# 7    0x1028ec2d: 'Tk_HandleEvent + 0x20d'
+# 8    0x10310550: 'Tk_DestroyWindow + 0x2f0'
+# 9    0x1031045d: 'Tk_DestroyWindow + 0x1fd'
+# 10   0x1031045d: 'Tk_DestroyWindow + 0x1fd'
+# 11   0x1031045d: 'Tk_DestroyWindow + 0x1fd'
+# 12   0x1030dca3: 'Tk_PkgInitStubsCheck + 0xc33'
+# 13   0x1028dbec: 'Tk_MainLoop + 0xac'
+StackWalk failed 998
+# End of Stack Trace
+

@@ -1,0 +1,24 @@
+module memory(Xm, Ym, Din, readMap, RD, WR, clk, rst, Dout);
+input[4:0]Xm, Ym;
+input Din, readMap, RD, WR,clk, rst;
+output Dout;
+integer i;
+
+wire addrs, dataout;
+reg[0:255] mem;
+reg[0:15] memRow[0:15];
+initial begin $readmemh("input.txt", memRow); $display("%h", memRow[0]); end
+assign addrs = {Xm, Ym};
+assign dataout = ~(0 <= Xm & Xm <= 15 & 0 <= Ym & Ym <= 15 & mem[addrs] == 0);
+assign Dout = RD? dataout:Dout;
+always@(posedge clk, posedge rst) begin
+	if(rst)
+		mem = 256'b0;
+	else if(readMap) begin
+		for(i = 0; i < 16; i = i + 1) begin
+			mem[16*i +: 16] = memRow[i];
+		end
+	end
+	else if(WR) mem[addrs] = Din;
+end
+endmodule

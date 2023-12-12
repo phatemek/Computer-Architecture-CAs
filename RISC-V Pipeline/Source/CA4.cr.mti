@@ -1,0 +1,71 @@
+Y:/University/CA/projects/CA4/TB.v {1 {vlog -work work -stats=none Y:/University/CA/projects/CA4/TB.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module PipelineTB
+
+Top level modules:
+	PipelineTB
+
+} {} {}} Y:/University/CA/projects/CA4/hazardunit.v {1 {vlog -work work -stats=none Y:/University/CA/projects/CA4/hazardunit.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module hazardunit
+
+Top level modules:
+	hazardunit
+
+} {} {}} Y:/University/CA/projects/CA4/top.v {1 {vlog -work work -stats=none Y:/University/CA/projects/CA4/top.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module pipeline
+
+Top level modules:
+	pipeline
+
+} {} {}} Y:/University/CA/projects/CA4/datapath.v {1 {vlog -work work -stats=none Y:/University/CA/projects/CA4/datapath.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module DataPath
+
+Top level modules:
+	DataPath
+
+} {} {}} Y:/University/CA/projects/CA4/controller.v {1 {vlog -work work -stats=none Y:/University/CA/projects/CA4/controller.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module controller
+
+Top level modules:
+	controller
+
+} {} {}} Y:/University/CA/projects/CA4/modules.v {1 {vlog -work work -stats=none Y:/University/CA/projects/CA4/modules.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module adder4
+-- Compiling module mux2_to_1
+-- Compiling module adder
+-- Compiling module mux3_to_1
+-- Compiling module ALU
+-- Compiling module mux1
+-- Compiling module reg1
+-- Compiling module Extend
+-- Compiling module InstructionMemory
+-- Compiling module DataMemory
+-- Compiling module RegisterFile
+-- Compiling module reg_en
+-- Compiling module reg1b
+-- Compiling module reg2b
+-- Compiling module reg3b
+
+Top level modules:
+	adder4
+	mux2_to_1
+	adder
+	mux3_to_1
+	ALU
+	mux1
+	reg1
+	Extend
+	InstructionMemory
+	DataMemory
+	RegisterFile
+	reg_en
+	reg1b
+	reg2b
+	reg3b
+
+} {} {}}

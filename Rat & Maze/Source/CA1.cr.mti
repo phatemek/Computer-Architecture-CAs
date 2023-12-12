@@ -1,0 +1,80 @@
+Y:/University/CA/projects/CA1/memory.v {1 {vlog -work work -stats=none Y:/University/CA/projects/CA1/memory.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module memory
+
+Top level modules:
+	memory
+
+} {} {}} Y:/University/CA/projects/CA1/TB.v {1 {vlog -work work -stats=none Y:/University/CA/projects/CA1/TB.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module TB
+
+Top level modules:
+	TB
+
+} {} {}} Y:/University/CA/projects/CA1/mux.v {1 {vlog -work work -stats=none Y:/University/CA/projects/CA1/mux.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module mux_2_to_1
+
+Top level modules:
+	mux_2_to_1
+
+} {} {}} Y:/University/CA/projects/CA1/ALU.v {1 {vlog -work work -stats=none Y:/University/CA/projects/CA1/ALU.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module ALU_4b
+-- Compiling module ALU_8b
+
+Top level modules:
+	ALU_4b
+	ALU_8b
+
+} {} {}} Y:/University/CA/projects/CA1/DataPath.v {1 {vlog -work work -stats=none Y:/University/CA/projects/CA1/DataPath.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module DataPath
+
+Top level modules:
+	DataPath
+
+} {} {}} Y:/University/CA/projects/CA1/rat.v {1 {vlog -work work -stats=none Y:/University/CA/projects/CA1/rat.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module rat
+
+Top level modules:
+	rat
+
+} {} {}} Y:/University/CA/projects/CA1/counter_2b.v {1 {vlog -work work -stats=none Y:/University/CA/projects/CA1/counter_2b.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module counter_2b
+
+Top level modules:
+	counter_2b
+
+} {} {}} Y:/University/CA/projects/CA1/reg_8b.v {1 {vlog -work work -stats=none Y:/University/CA/projects/CA1/reg_8b.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module reg_8b
+
+Top level modules:
+	reg_8b
+
+} {} {}} Y:/University/CA/projects/CA1/stack_255b.v {1 {vlog -work work -stats=none Y:/University/CA/projects/CA1/stack_255b.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module stack_255b
+
+Top level modules:
+	stack_255b
+
+} {} {}} Y:/University/CA/projects/CA1/controller.v {1 {vlog -work work -stats=none Y:/University/CA/projects/CA1/controller.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module controller
+
+Top level modules:
+	controller
+
+} {} {}} Y:/University/CA/projects/CA1/reg_5b.v {1 {vlog -work work -stats=none Y:/University/CA/projects/CA1/reg_5b.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module reg_5b
+
+Top level modules:
+	reg_5b
+
+} {} {}}

@@ -1,0 +1,364 @@
+m255
+K4
+z2
+!s11f vlog 2020.1 2020.02, Feb 28 2020
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dY:/University/CA/projects/CA1
+vadder
+Z0 !s110 1686400283
+!i10b 1
+!s100 jC218l7f>eifAe@2XP1fl0
+Z1 !s11b Dg1SIo80bB@j0V0VzS_@n1
+I2Nd8k:62jeDnElRUe>zi>0
+Z2 VDg1SIo80bB@j0V0VzS_@n1
+Z3 dY:/University/CA/projects/CA2
+Z4 w1686326779
+Z5 8Y:/University/CA/projects/CA2/modules.v
+Z6 FY:/University/CA/projects/CA2/modules.v
+!i122 58
+L0 16 3
+Z7 OV;L;2020.1;71
+r1
+!s85 0
+31
+Z8 !s108 1686400282.000000
+Z9 !s107 Y:/University/CA/projects/CA2/modules.v|
+Z10 !s90 -reportprogress|300|-work|work|-stats=none|Y:/University/CA/projects/CA2/modules.v|
+!i113 1
+Z11 o-work work
+Z12 tCvgOpt 0
+vadder4
+R0
+!i10b 1
+!s100 aO8XEk6FFO_;F4HRh@KTA3
+R1
+IXeH3dDFW0hYi6XjT@NQe00
+R2
+R3
+R4
+R5
+R6
+!i122 58
+L0 1 3
+R7
+r1
+!s85 0
+31
+R8
+R9
+R10
+!i113 1
+R11
+R12
+vALU
+R0
+!i10b 1
+!s100 ?9@hk[idP<gMhh:5DK]W92
+R1
+IJ;^<=>]KiQ`58Z[@GJGz[1
+R2
+R3
+R4
+R5
+R6
+!i122 58
+L0 38 18
+R7
+r1
+!s85 0
+31
+R8
+R9
+R10
+!i113 1
+R11
+R12
+n@a@l@u
+vcontroller
+!s110 1686400281
+!i10b 1
+!s100 8Hj6;@7]FNX:`Q613T__T0
+R1
+I^71_g<UOGRPT]0IZFdAil1
+R2
+R3
+w1686400184
+8Y:/University/CA/projects/CA2/controller.v
+FY:/University/CA/projects/CA2/controller.v
+!i122 56
+L0 19 93
+R7
+r1
+!s85 0
+31
+!s108 1686400280.000000
+!s107 Y:/University/CA/projects/CA2/controller.v|
+!s90 -reportprogress|300|-work|work|-stats=none|Y:/University/CA/projects/CA2/controller.v|
+!i113 1
+R11
+R12
+vDataMemory
+R0
+!i10b 1
+!s100 dNUihkIi9c^3a;8gTH]jj3
+R1
+IjX:;1kV=bZX;;1YVDd30X0
+R2
+R3
+R4
+R5
+R6
+!i122 58
+L0 95 10
+R7
+r1
+!s85 0
+31
+R8
+R9
+R10
+!i113 1
+R11
+R12
+n@data@memory
+vDataPath
+!s110 1686400282
+!i10b 1
+!s100 ;m?7PFnMg3gQ?fZeT]YE]3
+R1
+IBciCDmCbW5Hfo6:`<XV7]1
+R2
+R3
+w1686400218
+8Y:/University/CA/projects/CA2/datapath.v
+FY:/University/CA/projects/CA2/datapath.v
+!i122 57
+L0 1 38
+R7
+r1
+!s85 0
+31
+!s108 1686400281.000000
+!s107 Y:/University/CA/projects/CA2/datapath.v|
+!s90 -reportprogress|300|-work|work|-stats=none|Y:/University/CA/projects/CA2/datapath.v|
+!i113 1
+R11
+R12
+n@data@path
+vExtend
+R0
+!i10b 1
+!s100 ZSecY:>gP_d;WjN[@K15M2
+R1
+II>AYd9EO`JCFebK5>DZk40
+R2
+R3
+R4
+R5
+R6
+!i122 58
+L0 75 11
+R7
+r1
+!s85 0
+31
+R8
+R9
+R10
+!i113 1
+R11
+R12
+n@extend
+vInstructionMemory
+R0
+!i10b 1
+!s100 :jS9ediOjFmJEJ]Kfk:IL1
+R1
+ICF:O>JReoMDTjdZ8o>f5C0
+R2
+R3
+R4
+R5
+R6
+!i122 58
+L0 87 7
+R7
+r1
+!s85 0
+31
+R8
+R9
+R10
+!i113 1
+R11
+R12
+n@instruction@memory
+vmux1
+R0
+!i10b 1
+!s100 8A[D73^2@@1l07?Ed`7CY1
+R1
+IbAZPEkYc[D2m<61[gV;g=2
+R2
+R3
+R4
+R5
+R6
+!i122 58
+L0 61 3
+R7
+r1
+!s85 0
+31
+R8
+R9
+R10
+!i113 1
+R11
+R12
+vmux2
+R0
+!i10b 1
+!s100 7T]omh`BA14l@3h_Qzg:W2
+R1
+IO6_Fg>EPSPBol:d[H^j1J2
+R2
+R3
+R4
+R5
+R6
+!i122 58
+L0 9 3
+R7
+r1
+!s85 0
+31
+R8
+R9
+R10
+!i113 1
+R11
+R12
+vmux3
+R0
+!i10b 1
+!s100 aXIJHiSKWigGLJbP<f85@0
+R1
+Ii^XhaDRK9M`@Fezd5Dhj73
+R2
+R3
+R4
+R5
+R6
+!i122 58
+L0 23 10
+R7
+r1
+!s85 0
+31
+R8
+R9
+R10
+!i113 1
+R11
+R12
+vreg1
+R0
+!i10b 1
+!s100 feG^`<^GlaoDOai>6SHo]2
+R1
+I8<c0;Y=<U`]ceH3DIGIWG3
+R2
+R3
+R4
+R5
+R6
+!i122 58
+L0 68 6
+R7
+r1
+!s85 0
+31
+R8
+R9
+R10
+!i113 1
+R11
+R12
+vRegisterFile
+R0
+!i10b 1
+!s100 YU]K::]foH;mQ_^cXFG@43
+R1
+IJS6RKMEk;k21[[4fhfQ=[3
+R2
+R3
+R4
+R5
+R6
+!i122 58
+L0 106 9
+R7
+r1
+!s85 0
+31
+R8
+R9
+R10
+!i113 1
+R11
+R12
+n@register@file
+vRiscVSingleCycle
+Z13 !s110 1686400284
+!i10b 1
+!s100 ]HmG6W;iXWTFkD=JV]>o23
+R1
+I=6BHcM9X6UbITaVK6Ezo32
+R2
+R3
+w1686400207
+8Y:/University/CA/projects/CA2/RiscVSingleCycle.v
+FY:/University/CA/projects/CA2/RiscVSingleCycle.v
+!i122 60
+L0 1 17
+R7
+r1
+!s85 0
+31
+!s108 1686400284.000000
+!s107 Y:/University/CA/projects/CA2/RiscVSingleCycle.v|
+!s90 -reportprogress|300|-work|work|-stats=none|Y:/University/CA/projects/CA2/RiscVSingleCycle.v|
+!i113 1
+R11
+R12
+n@risc@v@single@cycle
+vRiscVSingleCycleTB
+R13
+!i10b 1
+!s100 TKR_laCLhDcN12i:6CKC]0
+R1
+IO?1d=jT44l4KC6m1nZbYA1
+R2
+R3
+w1685363498
+8Y:/University/CA/projects/CA2/TB.v
+FY:/University/CA/projects/CA2/TB.v
+!i122 59
+L0 1 9
+R7
+r1
+!s85 0
+31
+!s108 1686400283.000000
+!s107 Y:/University/CA/projects/CA2/TB.v|
+!s90 -reportprogress|300|-work|work|-stats=none|Y:/University/CA/projects/CA2/TB.v|
+!i113 1
+R11
+R12
+n@risc@v@single@cycle@t@b

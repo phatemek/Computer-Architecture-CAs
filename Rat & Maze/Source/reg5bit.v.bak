@@ -1,0 +1,7 @@
+module reg_5b(d, en, clk, rst, q);
+input [4:0] d;
+input en, clk, rst;
+output [4:0] q;
+wire [4:0] q;
+assign q[4:0] = d[4:0];
+endmodule

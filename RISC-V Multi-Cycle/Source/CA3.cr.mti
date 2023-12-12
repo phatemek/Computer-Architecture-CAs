@@ -1,0 +1,58 @@
+Y:/University/CA/projects/CA3/top.v {1 {vlog -work work -stats=none Y:/University/CA/projects/CA3/top.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module RiscVMultiCycle
+
+Top level modules:
+	RiscVMultiCycle
+
+} {} {}} Y:/University/CA/projects/CA3/datapath.v {1 {vlog -work work -stats=none Y:/University/CA/projects/CA3/datapath.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module DataPath
+
+Top level modules:
+	DataPath
+
+} {} {}} Y:/University/CA/projects/CA3/controller.v {1 {vlog -work work -stats=none Y:/University/CA/projects/CA3/controller.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module controller
+
+Top level modules:
+	controller
+
+} {} {}} Y:/University/CA/projects/CA3/modules.v {1 {vlog -work work -stats=none Y:/University/CA/projects/CA3/modules.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module adder4
+-- Compiling module mux2
+-- Compiling module adder
+-- Compiling module mux3
+-- Compiling module ALU
+-- Compiling module mux2_to_1
+-- Compiling module mux3_to_1
+-- Compiling module reg1
+-- Compiling module reg_en
+-- Compiling module Extend
+-- Compiling module DataMemory
+-- Compiling module RegisterFile
+
+Top level modules:
+	adder4
+	mux2
+	adder
+	mux3
+	ALU
+	mux2_to_1
+	mux3_to_1
+	reg1
+	reg_en
+	Extend
+	DataMemory
+	RegisterFile
+
+} {} {}} Y:/University/CA/projects/CA3/TB.v {1 {vlog -work work -stats=none Y:/University/CA/projects/CA3/TB.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module RiscVMultiCycleTB
+
+Top level modules:
+	RiscVMultiCycleTB
+
+} {} {}}

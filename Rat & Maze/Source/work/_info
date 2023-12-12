@@ -1,0 +1,340 @@
+m255
+K4
+z2
+!s11f vlog 2020.1 2020.02, Feb 28 2020
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dC:/intelFPGA_lite/20.1
+vALU_4b
+Z0 !s110 1681062214
+!i10b 1
+!s100 1L04H:6[KH1b]nd7G9f352
+Z1 !s11b Dg1SIo80bB@j0V0VzS_@n1
+I][eEc;i_cY]n6^KaNG5a53
+Z2 VDg1SIo80bB@j0V0VzS_@n1
+Z3 dY:/University/CA/projects/CA1
+Z4 w1681062197
+Z5 8Y:/University/CA/projects/CA1/ALU.v
+Z6 FY:/University/CA/projects/CA1/ALU.v
+!i122 125
+Z7 L0 1 7
+Z8 OV;L;2020.1;71
+r1
+!s85 0
+31
+Z9 !s108 1681062213.000000
+Z10 !s107 Y:/University/CA/projects/CA1/ALU.v|
+Z11 !s90 -reportprogress|300|-work|work|-stats=none|Y:/University/CA/projects/CA1/ALU.v|
+!i113 1
+Z12 o-work work
+Z13 tCvgOpt 0
+n@a@l@u_4b
+vALU_8b
+R0
+!i10b 1
+!s100 7R9Z]=P8[U>YJ:Q37:j7A1
+R1
+I4@:C6Q<Jm[DW;4Y0<[5ND1
+R2
+R3
+R4
+R5
+R6
+!i122 125
+L0 9 6
+R8
+r1
+!s85 0
+31
+R9
+R10
+R11
+!i113 1
+R12
+R13
+n@a@l@u_8b
+XALU_v_unit
+DXx6 sv_std 3 std 0 22 VYECXdT12H8WgbUP_5Y6:3
+!s110 1680683214
+Vgfglg]WGFf]MPV3C?;2Dn1
+r1
+!s85 0
+!i10b 1
+!s100 W^kSnmUj^f;gRJkD?bA<80
+Igfglg]WGFf]MPV3C?;2Dn1
+!i103 1
+S1
+R3
+w1680683200
+R5
+R6
+!i122 49
+L0 14 0
+R8
+31
+!s108 1680683213.000000
+R10
+R11
+!i113 1
+R12
+R13
+n@a@l@u_v_unit
+vcontroller
+!s110 1681064660
+!i10b 1
+!s100 6:D<LQLGcO9aUgTFHX^o[0
+R1
+IcXg9Zik;JZRIWI2dI<8F;2
+R2
+R3
+w1681064118
+8Y:/University/CA/projects/CA1/controller.v
+FY:/University/CA/projects/CA1/controller.v
+!i122 128
+L0 13 64
+R8
+r1
+!s85 0
+31
+!s108 1681064659.000000
+!s107 Y:/University/CA/projects/CA1/controller.v|
+!s90 -reportprogress|300|-work|work|-stats=none|Y:/University/CA/projects/CA1/controller.v|
+!i113 1
+R12
+R13
+vcounter_2b
+!s110 1681062211
+!i10b 1
+!s100 gQaUIYh7c=_SCK=Fl[aSl2
+R1
+IMk@;eWz^I:NdA7IT=Sa<G2
+R2
+R3
+w1681062195
+8Y:/University/CA/projects/CA1/counter_2b.v
+FY:/University/CA/projects/CA1/counter_2b.v
+!i122 122
+Z14 L0 1 17
+R8
+r1
+!s85 0
+31
+!s108 1681062211.000000
+!s107 Y:/University/CA/projects/CA1/counter_2b.v|
+!s90 -reportprogress|300|-work|work|-stats=none|Y:/University/CA/projects/CA1/counter_2b.v|
+!i113 1
+R12
+R13
+vDataPath
+!s110 1681064679
+!i10b 1
+!s100 cXah=Chz4d342clNdOBS@2
+R1
+Ie5zT`HHb8X2J1OT2jU:i@0
+R2
+R3
+w1681064677
+8Y:/University/CA/projects/CA1/DataPath.v
+FY:/University/CA/projects/CA1/DataPath.v
+!i122 131
+L0 1 32
+R8
+r1
+!s85 0
+31
+!s108 1681064679.000000
+!s107 Y:/University/CA/projects/CA1/DataPath.v|
+!s90 -reportprogress|300|-work|work|-stats=none|Y:/University/CA/projects/CA1/DataPath.v|
+!i113 1
+R12
+R13
+n@data@path
+vmemory
+!s110 1681062207
+!i10b 1
+!s100 VfQT:jY:RFInYbaJB@8W`3
+R1
+Ifl5<hbJ0_Y`[CWnWNmK0[0
+R2
+R3
+w1681062193
+8Y:/University/CA/projects/CA1/memory.v
+FY:/University/CA/projects/CA1/memory.v
+!i122 117
+L0 1 29
+R8
+r1
+!s85 0
+31
+!s108 1681062206.000000
+!s107 Y:/University/CA/projects/CA1/memory.v|
+!s90 -reportprogress|300|-work|work|-stats=none|Y:/University/CA/projects/CA1/memory.v|
+!i113 1
+R12
+R13
+vmux_2_to_1
+!s110 1681062210
+!i10b 1
+!s100 GNLU9VHV]jL_oiD5?M<>g3
+R1
+I?9]KU<mDnW>mzH>nEm1UI0
+R2
+R3
+w1681062192
+8Y:/University/CA/projects/CA1/mux.v
+FY:/University/CA/projects/CA1/mux.v
+!i122 121
+R7
+R8
+r1
+!s85 0
+31
+!s108 1681062210.000000
+!s107 Y:/University/CA/projects/CA1/mux.v|
+!s90 -reportprogress|300|-work|work|-stats=none|Y:/University/CA/projects/CA1/mux.v|
+!i113 1
+R12
+R13
+vrat
+!s110 1681064661
+!i10b 1
+!s100 Fj2]N^nz[zV]GJh=Sjm1z3
+R1
+IUV`NoM0b:O@eg7T_dQ8KV3
+R2
+R3
+w1681064634
+8Y:/University/CA/projects/CA1/rat.v
+FY:/University/CA/projects/CA1/rat.v
+!i122 129
+Z15 L0 1 15
+R8
+r1
+!s85 0
+31
+!s108 1681064660.000000
+!s107 Y:/University/CA/projects/CA1/rat.v|
+!s90 -reportprogress|300|-work|work|-stats=none|Y:/University/CA/projects/CA1/rat.v|
+!i113 1
+R12
+R13
+vreg_5b
+!s110 1681062209
+!i10b 1
+!s100 QR@kaf2]TlIRlB5PFJL5=1
+R1
+ICL>8k]V44LFniCBo_U;Y_2
+R2
+R3
+w1681062190
+8Y:/University/CA/projects/CA1/reg_5b.v
+FY:/University/CA/projects/CA1/reg_5b.v
+!i122 120
+L0 1 10
+R8
+r1
+!s85 0
+31
+!s108 1681062209.000000
+!s107 Y:/University/CA/projects/CA1/reg_5b.v|
+!s90 -reportprogress|300|-work|work|-stats=none|Y:/University/CA/projects/CA1/reg_5b.v|
+!i113 1
+R12
+R13
+vreg_8b
+!s110 1681062212
+!i10b 1
+!s100 F2g[W9TJHBN@?aN7Jk_BT2
+R1
+I:T`A>8C6:MbKf7Z8UD7iZ3
+R2
+R3
+Z16 w1681062189
+8Y:/University/CA/projects/CA1/reg_8b.v
+FY:/University/CA/projects/CA1/reg_8b.v
+!i122 123
+L0 2 9
+R8
+r1
+!s85 0
+31
+!s108 1681062212.000000
+!s107 Y:/University/CA/projects/CA1/reg_8b.v|
+!s90 -reportprogress|300|-work|work|-stats=none|Y:/University/CA/projects/CA1/reg_8b.v|
+!i113 1
+R12
+R13
+vstack_255b
+!s110 1681062213
+!i10b 1
+!s100 IY4BU75NGH?B6im<G3]Ma1
+R1
+IKoQDoY7VLcV7S6W3[T_1;1
+R2
+R3
+R16
+8Y:/University/CA/projects/CA1/stack_255b.v
+FY:/University/CA/projects/CA1/stack_255b.v
+!i122 124
+R14
+R8
+r1
+!s85 0
+31
+R9
+!s107 Y:/University/CA/projects/CA1/stack_255b.v|
+!s90 -reportprogress|300|-work|work|-stats=none|Y:/University/CA/projects/CA1/stack_255b.v|
+!i113 1
+R12
+R13
+vtb
+!s110 1680681432
+!i10b 1
+!s100 5]l1G34WA4:nT<bKO<K[=1
+R1
+I5]Q[g:?eKL2O8lmLz<iDe3
+R2
+R3
+w1680681424
+8Y:/University/CA/projects/CA1/test.v
+FY:/University/CA/projects/CA1/test.v
+!i122 35
+L0 1 16
+R8
+r1
+!s85 0
+31
+!s108 1680681432.000000
+!s107 Y:/University/CA/projects/CA1/test.v|
+!s90 -reportprogress|300|-work|work|-stats=none|Y:/University/CA/projects/CA1/test.v|
+!i113 1
+R12
+R13
+vTB
+!s110 1681064662
+!i10b 1
+!s100 Kkjdi5TdS:PAIBM0`zE8C1
+R1
+I?8OeFnZzInNgg8lMUP9;z2
+R2
+R3
+w1681063582
+8Y:/University/CA/projects/CA1/TB.v
+FY:/University/CA/projects/CA1/TB.v
+!i122 130
+R15
+R8
+r1
+!s85 0
+31
+!s108 1681064662.000000
+!s107 Y:/University/CA/projects/CA1/TB.v|
+!s90 -reportprogress|300|-work|work|-stats=none|Y:/University/CA/projects/CA1/TB.v|
+!i113 1
+R12
+R13
+n@t@b

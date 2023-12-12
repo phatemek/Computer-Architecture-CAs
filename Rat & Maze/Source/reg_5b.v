@@ -1,0 +1,10 @@
+module reg_5b(d, en, clk, rst, q);
+  input [4:0]d;
+  input en, clk, rst;
+  output [4:0] q;
+  reg [4:0] q = 5'b00000;
+  always @(posedge clk or posedge rst) begin
+    if(rst) q <= 5'b00000;
+    else if(en) q <= d;
+  end
+endmodule

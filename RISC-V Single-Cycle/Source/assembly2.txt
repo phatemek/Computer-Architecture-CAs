@@ -1,0 +1,5 @@
+lui x1, 0x00001
+    addi x1, x1, 0x234
+    lui x2, 0x00000
+    addi x2, x2, 0x004
+    sw x1, 0(x2)

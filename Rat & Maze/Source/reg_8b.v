@@ -1,0 +1,10 @@
+
+module reg_8b(d, en, clk, rst, y);
+  input [7:0]d;
+  input en, clk, rst;
+  output reg [7:0]y = 0;
+  always @(posedge clk, posedge rst)begin
+    if (rst) y <= 0;
+    else if(en) y <= d;
+  end
+endmodule

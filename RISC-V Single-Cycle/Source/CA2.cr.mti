@@ -1,0 +1,56 @@
+Y:/University/CA/projects/CA2/controller.v {1 {vlog -work work -stats=none Y:/University/CA/projects/CA2/controller.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module controller
+
+Top level modules:
+	controller
+
+} {} {}} Y:/University/CA/projects/CA2/RiscVSingleCycle.v {1 {vlog -work work -stats=none Y:/University/CA/projects/CA2/RiscVSingleCycle.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module RiscVSingleCycle
+
+Top level modules:
+	RiscVSingleCycle
+
+} {} {}} Y:/University/CA/projects/CA2/modules.v {1 {vlog -work work -stats=none Y:/University/CA/projects/CA2/modules.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module adder4
+-- Compiling module mux2
+-- Compiling module adder
+-- Compiling module mux3
+-- Compiling module ALU
+-- Compiling module mux1
+-- Compiling module reg1
+-- Compiling module Extend
+-- Compiling module InstructionMemory
+-- Compiling module DataMemory
+-- Compiling module RegisterFile
+
+Top level modules:
+	adder4
+	mux2
+	adder
+	mux3
+	ALU
+	mux1
+	reg1
+	Extend
+	InstructionMemory
+	DataMemory
+	RegisterFile
+
+} {} {}} Y:/University/CA/projects/CA2/TB.v {1 {vlog -work work -stats=none Y:/University/CA/projects/CA2/TB.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module RiscVSingleCycleTB
+
+Top level modules:
+	RiscVSingleCycleTB
+
+} {} {}} Y:/University/CA/projects/CA2/datapath.v {1 {vlog -work work -stats=none Y:/University/CA/projects/CA2/datapath.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module DataPath
+
+Top level modules:
+	DataPath
+
+} {} {}}

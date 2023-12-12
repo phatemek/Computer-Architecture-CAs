@@ -1,0 +1,17 @@
+module stack_255b(d, pop, ins, clk, rst, sz, s1, s0);
+  input pop, ins, clk, rst;
+  input [1:0] d;
+  input [7:0] sz;
+  output reg [0:255] s1 = 0;
+  output reg [0:255] s0 = 0;
+  always @(posedge clk, posedge rst)begin
+    if (rst)begin
+      s0 = 0;
+      s1 = 0;
+    end
+    else if(ins)begin
+      s0[sz] <= d[0];
+      s1[sz] <= d[1];
+    end
+  end
+endmodule
